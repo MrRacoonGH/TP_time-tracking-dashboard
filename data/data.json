@@ -1,0 +1,35 @@
+{
+  "timeframe": "weekly",
+  "activities": [
+    {
+      "name": "Work",
+      "current": "32hrs",
+      "previous": "36hrs"
+    },
+    {
+      "name": "Play",
+      "current": "10hrs",
+      "previous": "36hrs"
+    },
+    {
+      "name": "Study",
+      "current": "4hrs",
+      "previous": "7hrs"
+    },
+    {
+      "name": "Exercise",
+      "current": "4hrs",
+      "previous": "5hrs"
+    },
+    {
+      "name": "Social",
+      "current": "5hrs",
+      "previous": "10hrs"
+    },
+    {
+      "name": "Self Care",
+      "current": "2hrs",
+      "previous": "2hrs"
+    }
+  ]
+}
