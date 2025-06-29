@@ -75,6 +75,10 @@ main {
 }
 
 .top-card {
+    background-color: #FF8B64;
+}
+
+.bottom-card {
     display: flex;
     align-items: center;
     justify-content: space-between;
