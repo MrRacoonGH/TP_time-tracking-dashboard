@@ -67,3 +67,21 @@ main {
 .card {
     color: white;
 }
+
+.time {
+    background-color: #1C204B;
+    padding: 24px;
+    border-radius: 8px;
+}
+
+.top-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.data-info {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
